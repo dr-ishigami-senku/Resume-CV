@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
 
 :root{
-  --green:#0ec414;
+  --green:#ff0000;
   --black:#333;
   --white:#fff;
   --light-color:#777;
@@ -54,7 +54,7 @@ html::-webkit-scrollbar-thumb{
 
 .container{
   padding:100px 9%;
-  background: linear-gradient(45deg, #7bfc03, var(--black));
+  background: linear-gradient(45deg, #ff0000, var(--black));
   display: flex;
 }
 
